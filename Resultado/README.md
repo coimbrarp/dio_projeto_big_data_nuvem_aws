@@ -4,4 +4,4 @@ Este material tem como objetivo mostrar a contagem do número de vezes que cada 
 
 - Na pasta **data** está o arquivo texto utilizado.
 
-- Na pasta **output** está a saída gerada com a contagem de cada palavra do arquivo texto.
+- Na pasta **output** está a saída gerada, dividida em partes, com a contagem de cada palavra do texto.
